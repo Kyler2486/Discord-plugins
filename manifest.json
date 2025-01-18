@@ -1,0 +1,7 @@
+{
+  "name": "Hide Gift Button",
+  "description": "This plugin hides the gift button in Discord.",
+  "version": "1.0.0",
+  "author": "Kyler",
+  "main": "hideGiftButton.js"
+}
